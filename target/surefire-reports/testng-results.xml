@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-10-09T17:45:29 IST" name="Master Suite" finished-at="2026-10-09T17:45:48 IST" duration-ms="19144">
+  <suite started-at="2026-10-16T06:43:16 IST" name="Master Suite" finished-at="2026-10-16T06:43:30 IST" duration-ms="14133">
     <groups>
     </groups>
-    <test started-at="2026-10-09T17:45:29 IST" name="test" finished-at="2026-10-09T17:45:48 IST" duration-ms="19144">
+    <test started-at="2026-10-16T06:43:16 IST" name="test" finished-at="2026-10-16T06:43:30 IST" duration-ms="14133">
       <class name="TestCases.tc_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.tc_LoginTest@5ddf0d24]" started-at="2026-10-09T17:45:38 IST" name="setup" finished-at="2026-10-09T17:45:41 IST" duration-ms="3093" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.tc_LoginTest@5ddf0d24]" started-at="2026-10-16T06:43:23 IST" name="setup" finished-at="2026-10-16T06:43:24 IST" duration-ms="1774" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,17 +23,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_Login()[pri:0, instance:TestCases.tc_LoginTest@5ddf0d24]" started-at="2026-10-09T17:45:41 IST" name="verify_Login" finished-at="2026-10-09T17:45:47 IST" duration-ms="6033" status="PASS">
+        <test-method signature="verify_Login()[pri:0, instance:TestCases.tc_LoginTest@5ddf0d24]" started-at="2026-10-16T06:43:24 IST" name="verify_Login" finished-at="2026-10-16T06:43:30 IST" duration-ms="5173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.tc_LoginTest@5ddf0d24]" started-at="2026-10-09T17:45:47 IST" name="teardown" finished-at="2026-10-09T17:45:48 IST" duration-ms="434" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.tc_LoginTest@5ddf0d24]" started-at="2026-10-16T06:43:30 IST" name="teardown" finished-at="2026-10-16T06:43:30 IST" duration-ms="417" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- TestCases.tc_LoginTest -->
       <class name="TestCases.tc_AccounRegistration">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.tc_AccounRegistration@1c93f6e1]" started-at="2026-10-09T17:45:29 IST" name="setup" finished-at="2026-10-09T17:45:34 IST" duration-ms="4549" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCases.tc_AccounRegistration@1c93f6e1]" started-at="2026-10-16T06:43:16 IST" name="setup" finished-at="2026-10-16T06:43:20 IST" duration-ms="3789" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,11 +49,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_Reg_Account()[pri:0, instance:TestCases.tc_AccounRegistration@1c93f6e1]" started-at="2026-10-09T17:45:34 IST" name="verify_Reg_Account" finished-at="2026-10-09T17:45:38 IST" duration-ms="4112" status="PASS">
+        <test-method signature="verify_Reg_Account()[pri:0, instance:TestCases.tc_AccounRegistration@1c93f6e1]" started-at="2026-10-16T06:43:20 IST" name="verify_Reg_Account" finished-at="2026-10-16T06:43:22 IST" duration-ms="2539" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Reg_Account -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.tc_AccounRegistration@1c93f6e1]" started-at="2026-10-09T17:45:38 IST" name="teardown" finished-at="2026-10-09T17:45:38 IST" duration-ms="388" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCases.tc_AccounRegistration@1c93f6e1]" started-at="2026-10-16T06:43:22 IST" name="teardown" finished-at="2026-10-16T06:43:23 IST" duration-ms="244" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

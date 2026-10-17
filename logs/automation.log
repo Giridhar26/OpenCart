@@ -1,0 +1,88 @@
+16:21:45.291 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCart\master.xml"
+16:21:46.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCart\master.xml
+
+16:21:54.642 [main] INFO  TestCases.tc_AccounRegistration - Starting of the Test cases execution
+16:21:55.005 [main] INFO  TestCases.tc_AccounRegistration - Clicked on My Account link
+16:21:55.561 [main] INFO  TestCases.tc_AccounRegistration - clicked on Register link
+16:21:57.890 [main] INFO  TestCases.tc_AccounRegistration - Entered all the details and clicked on continue button
+16:21:57.965 [main] INFO  TestCases.tc_AccounRegistration - Validating expected message with actual message
+16:21:57.972 [main] INFO  TestCases.tc_AccounRegistration - Account Registration Test case is passed
+16:21:57.972 [main] INFO  TestCases.tc_AccounRegistration - Ending of the Test cases execution
+16:22:01.637 [main] INFO  TestCases.tc_LoginTest - Starting of the Login Test cases execution
+16:22:01.819 [main] INFO  TestCases.tc_LoginTest - Clicked on My Account link
+16:22:02.168 [main] INFO  TestCases.tc_LoginTest - clicked on Login link
+16:22:02.446 [main] INFO  TestCases.tc_LoginTest - Entered email address
+16:22:02.582 [main] INFO  TestCases.tc_LoginTest - Entered password
+16:22:02.582 [main] INFO  TestCases.tc_LoginTest - Entered it successfully
+16:22:03.617 [main] INFO  TestCases.tc_LoginTest - clicked on Login button
+16:22:07.409 [main] INFO  TestCases.tc_LoginTest - clicked on Logout button
+16:22:07.409 [main] INFO  TestCases.tc_LoginTest - Login Test case is completed
+05:41:59.091 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCart\master.xml"
+05:42:08.369 [main] INFO  TestCases.tc_AccounRegistration - Starting of the Test cases execution
+05:42:08.540 [main] INFO  TestCases.tc_AccounRegistration - Clicked on My Account link
+05:42:09.272 [main] INFO  TestCases.tc_AccounRegistration - clicked on Register link
+05:42:11.815 [main] INFO  TestCases.tc_AccounRegistration - Entered all the details and clicked on continue button
+05:42:11.845 [main] INFO  TestCases.tc_AccounRegistration - Validating expected message with actual message
+05:42:11.848 [main] INFO  TestCases.tc_AccounRegistration - Account Registration Test case is passed
+05:42:11.848 [main] INFO  TestCases.tc_AccounRegistration - Ending of the Test cases execution
+05:42:14.504 [main] INFO  TestCases.tc_LoginTest - Starting of the Login Test cases execution
+05:42:14.597 [main] INFO  TestCases.tc_LoginTest - Clicked on My Account link
+05:42:14.870 [main] INFO  TestCases.tc_LoginTest - clicked on Login link
+05:42:14.998 [main] INFO  TestCases.tc_LoginTest - Entered email address
+05:42:15.077 [main] INFO  TestCases.tc_LoginTest - Entered password
+05:42:15.077 [main] INFO  TestCases.tc_LoginTest - Entered it successfully
+05:42:17.106 [main] INFO  TestCases.tc_LoginTest - clicked on Login button
+05:42:20.696 [main] INFO  TestCases.tc_LoginTest - clicked on Logout button
+05:42:20.696 [main] INFO  TestCases.tc_LoginTest - Login Test case is completed
+06:05:34.529 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCart\master.xml"
+06:05:37.790 [main] INFO  TestCases.tc_AccounRegistration - Starting of the Test cases execution
+06:05:37.888 [main] INFO  TestCases.tc_AccounRegistration - Clicked on My Account link
+06:05:38.203 [main] INFO  TestCases.tc_AccounRegistration - clicked on Register link
+06:05:40.146 [main] INFO  TestCases.tc_AccounRegistration - Entered all the details and clicked on continue button
+06:05:40.180 [main] INFO  TestCases.tc_AccounRegistration - Validating expected message with actual message
+06:05:40.181 [main] INFO  TestCases.tc_AccounRegistration - Account Registration Test case is passed
+06:05:40.181 [main] INFO  TestCases.tc_AccounRegistration - Ending of the Test cases execution
+06:05:42.019 [main] INFO  TestCases.tc_LoginTest - Starting of the Login Test cases execution
+06:05:42.081 [main] INFO  TestCases.tc_LoginTest - Clicked on My Account link
+06:05:42.300 [main] INFO  TestCases.tc_LoginTest - clicked on Login link
+06:05:42.396 [main] INFO  TestCases.tc_LoginTest - Entered email address
+06:05:42.477 [main] INFO  TestCases.tc_LoginTest - Entered password
+06:05:42.477 [main] INFO  TestCases.tc_LoginTest - Entered it successfully
+06:05:43.519 [main] INFO  TestCases.tc_LoginTest - clicked on Login button
+06:05:46.901 [main] INFO  TestCases.tc_LoginTest - clicked on Logout button
+06:05:46.901 [main] INFO  TestCases.tc_LoginTest - Login Test case is completed
+06:14:36.076 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCart\master.xml"
+06:14:39.717 [main] INFO  TestCases.tc_AccounRegistration - Starting of the Test cases execution
+06:14:39.799 [main] INFO  TestCases.tc_AccounRegistration - Clicked on My Account link
+06:14:40.101 [main] INFO  TestCases.tc_AccounRegistration - clicked on Register link
+06:14:42.656 [main] INFO  TestCases.tc_AccounRegistration - Entered all the details and clicked on continue button
+06:14:42.689 [main] INFO  TestCases.tc_AccounRegistration - Validating expected message with actual message
+06:14:42.695 [main] INFO  TestCases.tc_AccounRegistration - Account Registration Test case is passed
+06:14:42.695 [main] INFO  TestCases.tc_AccounRegistration - Ending of the Test cases execution
+06:14:44.500 [main] INFO  TestCases.tc_LoginTest - Starting of the Login Test cases execution
+06:14:44.559 [main] INFO  TestCases.tc_LoginTest - Clicked on My Account link
+06:14:44.786 [main] INFO  TestCases.tc_LoginTest - clicked on Login link
+06:14:44.863 [main] INFO  TestCases.tc_LoginTest - Entered email address
+06:14:44.917 [main] INFO  TestCases.tc_LoginTest - Entered password
+06:14:44.917 [main] INFO  TestCases.tc_LoginTest - Entered it successfully
+06:14:44.978 [main] INFO  TestCases.tc_LoginTest - clicked on Login button
+06:14:50.738 [main] INFO  TestCases.tc_LoginTest - clicked on Logout button
+06:14:50.738 [main] INFO  TestCases.tc_LoginTest - Login Test case is completed
+06:43:16.214 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCart\master.xml"
+06:43:20.409 [main] INFO  TestCases.tc_AccounRegistration - Starting of the Test cases execution
+06:43:20.492 [main] INFO  TestCases.tc_AccounRegistration - Clicked on My Account link
+06:43:20.797 [main] INFO  TestCases.tc_AccounRegistration - clicked on Register link
+06:43:22.919 [main] INFO  TestCases.tc_AccounRegistration - Entered all the details and clicked on continue button
+06:43:22.944 [main] INFO  TestCases.tc_AccounRegistration - Validating expected message with actual message
+06:43:22.948 [main] INFO  TestCases.tc_AccounRegistration - Account Registration Test case is passed
+06:43:22.948 [main] INFO  TestCases.tc_AccounRegistration - Ending of the Test cases execution
+06:43:24.982 [main] INFO  TestCases.tc_LoginTest - Starting of the Login Test cases execution
+06:43:25.074 [main] INFO  TestCases.tc_LoginTest - Clicked on My Account link
+06:43:25.306 [main] INFO  TestCases.tc_LoginTest - clicked on Login link
+06:43:25.382 [main] INFO  TestCases.tc_LoginTest - Entered email address
+06:43:25.432 [main] INFO  TestCases.tc_LoginTest - Entered password
+06:43:25.432 [main] INFO  TestCases.tc_LoginTest - Entered it successfully
+06:43:26.643 [main] INFO  TestCases.tc_LoginTest - clicked on Login button
+06:43:30.155 [main] INFO  TestCases.tc_LoginTest - clicked on Logout button
+06:43:30.155 [main] INFO  TestCases.tc_LoginTest - Login Test case is completed
